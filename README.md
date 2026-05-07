@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="350" src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif"  />
 </div>
@@ -42,7 +44,9 @@
 
 ###
 
-<br clear="both">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DUDENOH.DUDENOH&left_color=black&right_color=black"  />
+
+###
 
 <div align="center">
   <a href="https://www.instagram.com/mf_dude_/" target="_blank">
@@ -74,8 +78,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=660033"  />
 </div>
 
 ###
@@ -90,5 +94,17 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=33kh1hleaotecbcrjs8ubwjen&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
