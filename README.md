@@ -87,6 +87,12 @@
 
 ###
 
+<br clear="both">
+
+<h6 align="left">contributions</h6>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph.svg">
