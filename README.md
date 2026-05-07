@@ -1,18 +1,26 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/3d/1c/6b/3d1c6b451abd3eb93b6d0fa33b0a5165.gif"  />
 </div>
 
 ###
 
-<h3 align="left">DEV JÚNIOR | DUDE</h3>
+<br clear="both">
+
+<h3 align="center">Sobre mim</h3>
 
 ###
 
 <br clear="both">
 
 <p align="left">Meu nome é Dude, tenho 19 anos e sou do Brasil. 🇧🇷<br>Programo há 4 anos e tenho experiência em diferentes áreas da tecnologia, incluindo desenvolvimento e cibersegurança. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.</p>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Ferramentas e Tecnologias que eu utilizo</h3>
 
 ###
 
@@ -44,30 +52,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DUDENOH.DUDENOH&left_color=black&right_color=black"  />
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/mf_dude_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/ilovebapes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="eversondude26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
@@ -78,20 +62,35 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=660033"  />
-</div>
+<h6 align="center">Minhas Redes socias</h6>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DUDENOH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUDENOH&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2&custom_title=Est%C3%A1ticas%20" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DUDENOH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DUDENOH&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://www.instagram.com/mf_dude_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/ilovebapes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="eversondude26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -102,6 +101,8 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=33kh1hleaotecbcrjs8ubwjen&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 ###
 
