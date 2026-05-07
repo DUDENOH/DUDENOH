@@ -4,9 +4,11 @@
 
 ###
 
-<h1 align="left">DEV JÚNIOR | AKNOH</h1>
+<h3 align="left">DEV JÚNIOR | DUDE</h3>
 
 ###
+
+<br clear="both">
 
 <p align="left">Meu nome é Dude, tenho 19 anos e sou do Brasil. 🇧🇷<br>Programo há 4 anos e tenho experiência em diferentes áreas da tecnologia, incluindo desenvolvimento e cibersegurança. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.</p>
 
@@ -40,6 +42,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.instagram.com/mf_dude_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -60,6 +64,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph.svg">
@@ -69,18 +75,20 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DUDENOH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUDENOH&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2&custom_title=Est%C3%A1ticas%20" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=DUDENOH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DUDENOH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUDENOH&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2&custom_title=Est%C3%A1ticas%20" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DUDENOH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=DUDENOH&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
 
 ###
