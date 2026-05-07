@@ -6,6 +6,18 @@
 
 ###
 
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
 <h3 align="left">Sobre mim</h3>
 
 ###
@@ -16,11 +28,17 @@
 
 ###
 
-<h3 align="left">Ferramentas e Tecnologias que eu utilizo</h3>
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/dd/93/c6/dd93c6a45a4d72b01b72172605f92ef6.gif"  />
+
+###
+
+<h3 align="left">Ferramentas e Tecnologias que eu utilizo</h3>
 
 ###
 
@@ -91,10 +109,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/4e/ac/c9/4eacc9f169a9b93ba287add3cbb071df.gif"  />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=33kh1hleaotecbcrjs8ubwjen&count=5&unique=true" alt="Spotify recently played"  />
@@ -104,5 +118,9 @@
 ###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DUDENOH.DUDENOH&left_color=black&right_color=black&left_text=views"  />
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/4e/ac/c9/4eacc9f169a9b93ba287add3cbb071df.gif"  />
 
 ###
