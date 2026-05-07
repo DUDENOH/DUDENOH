@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Sobre mim</h3>
 
 ###
@@ -18,15 +16,15 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="205" src="https://i.pinimg.com/originals/84/0a/fb/840afbf3fb761c03f6bf46b8a1f6d489.gif"  />
+
+###
 
 <h3 align="center">Ferramentas e Tecnologias que eu utilizo</h3>
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
@@ -52,17 +50,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h6 align="center">Minhas Redes socias</h6>
+<h5 align="center">Minhas Redes socias</h5>
 
 ###
 
@@ -90,22 +78,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DUDENOH/DUDENOH/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=33kh1hleaotecbcrjs8ubwjen&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
