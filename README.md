@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
@@ -56,11 +56,20 @@
 
 ###
 
-<h4 align="left">Minhas Redes socias</h4>
+<h3 align="left">Estatísticas De Contribuições</h3>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/fd/30/84/fd30846b19ff684f079d23b217a481e8.gif"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=DUDENOH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DUDENOH&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h4 align="left">Minhas Redes socias</h4>
 
 ###
 
@@ -82,10 +91,18 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/4e/ac/c9/4eacc9f169a9b93ba287add3cbb071df.gif"  />
+
+###
+
 <div align="left">
   <a href="https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=33kh1hleaotecbcrjs8ubwjen&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DUDENOH.DUDENOH&left_color=black&right_color=black&left_text=views"  />
 
 ###
