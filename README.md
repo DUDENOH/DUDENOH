@@ -106,7 +106,7 @@
 ###
 
 <div align="left">
-  <a href="[https://discord.com/channels/@me](https://discordapp.com/users/987554088298373190)" target="_blank">
+  <a href="https://discord.com/channels/@me](https://discordapp.com/users/987554088298373190" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/mf_dude_/" target="_blank">
