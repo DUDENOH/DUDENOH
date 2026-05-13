@@ -28,28 +28,22 @@ const AKNOH = {
 
 <p align="left"></p>
 
-###
 
 <br clear="both">
 
 <p align="left"></p>
 
-###
+<h2 align="left">About me</h2>
 
-<h3 align="left">About me</h3>
-
-###
 
 <br clear="both">
 
 <p align="left">My name is Dude, I am 19 years old and I am from Brazil. I have been programming for 4 years and have gained experience in various areas of technology, including development and cybersecurity. I am a curious person and passionate about constantly learning, always exploring new tools, frameworks, and methodologies to improve my skills and stay updated with industry trends. I seek challenges that allow me to apply my knowledge in a practical way and continue evolving as a technology professional.</p>
 
-###
 
 <br clear="both">
 
 <p align="left"></p>
-
 
 
 <img align="bottom " height="200" src="https://i.pinimg.com/originals/dd/93/c6/dd93c6a45a4d72b01b72172605f92ef6.gif"  />
@@ -138,7 +132,6 @@ const AKNOH = {
 
 <h4 align="left">My Social Networks</h4>
 
-###
 
 <div align="left">
   <a href="https://discord.com/channels/@me](https://discordapp.com/users/987554088298373190" target="_blank">
@@ -157,20 +150,16 @@ const AKNOH = {
 </div>
 
 
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/33kh1hleaotecbcrjs8ubwjen">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=33kh1hleaotecbcrjs8ubwjen&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DUDENOH.DUDENOH&left_color=black&right_color=black&left_text=views"  />
 
-###
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/4e/ac/c9/4eacc9f169a9b93ba287add3cbb071df.gif"  />
 
-###
+
