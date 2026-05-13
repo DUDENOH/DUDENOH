@@ -116,7 +116,7 @@ const AKNOH = {
 
 
 
-## 📊 GitHub Stats & Trophies
+📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/DUDENOH">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DUDENOH&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="DUDENOH's GitHub Stats" />
@@ -149,6 +149,12 @@ const AKNOH = {
   </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
