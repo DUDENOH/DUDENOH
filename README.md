@@ -36,13 +36,13 @@ const AKNOH = {
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<h3 align="left">About me</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">Meu nome é Dude, tenho 19 anos e sou do Brasil.<br>Programo há 4 anos e tenho experiência em diferentes áreas da tecnologia, incluindo desenvolvimento e cibersegurança. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.</p>
+<p align="left">My name is Dude, I am 19 years old and I am from Brazil. I have been programming for 4 years and have gained experience in various areas of technology, including development and cybersecurity. I am a curious person and passionate about constantly learning, always exploring new tools, frameworks, and methodologies to improve my skills and stay updated with industry trends. I seek challenges that allow me to apply my knowledge in a practical way and continue evolving as a technology professional.</p>
 
 ###
 
@@ -56,7 +56,7 @@ const AKNOH = {
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ff0000&text=Ferramentas+e+Tecnologias+que+Utilizo%20%20%20%20%20&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ff0000&text=Tools+Technologies+that+I+Use%20%20%20%20%20&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
 </p>
 
 <table align="center">
@@ -129,8 +129,14 @@ const AKNOH = {
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DUDENOH&theme=monokai&radius=10" alt="DUDENOH's Activity Graph" />
 </p>
+<h4 align="left">Contributions</h4>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-<h4 align="left">Minhas Redes socias</h4>
+<h4 align="left">My Social Networks</h4>
 
 ###
 
@@ -150,11 +156,6 @@ const AKNOH = {
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
