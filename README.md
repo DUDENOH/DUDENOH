@@ -53,69 +53,66 @@ const AKNOH = {
 
 
 <img align="bottom " height="200" src="https://i.pinimg.com/originals/dd/93/c6/dd93c6a45a4d72b01b72172605f92ef6.gif"  />
-<p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ff0000&text=🛠️Ferramentas+e+Tecnologias+que+Utilizo%20%20%20%20%20&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ff0000&text=Ferramentas+e+Tecnologias+que+Utilizo%20%20%20%20%20&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
 </p>
 
-<h3 align="left ">Programming Languages</h3>
-<p align="left ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
+🎨 Front-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&theme=dark&perline=3"/>
 </p>
 
-<h3 align="left ">Frontend</h3>
-<p align="left ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+</td>
+<td valign="top" width="33%">
 
+⚙️ Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,graphql,python,go&theme=dark&perline=3"/>
 </p>
 
-<h3 align="left ">Backend</h3>
-<p align="left ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+</td>
+<td valign="top" width="33%">
 
+🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase&theme=dark&perline=3"/>
 </p>
 
-<h3 align="left ">Database</h3>
-<p align="left ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+<tr>
+<td valign="top" width="33%">
 
+☁️ DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,bash&theme=dark&perline=3"/>
 </p>
 
-<h3 align="left ">DevOps & Cloud</h3>
-<p align="left ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+</td>
+<td valign="top" width="33%">
 
+🛡️ Security
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,powershell,cloudflare,githubactions&theme=dark&perline=3"/>
 </p>
 
-<h3 align="left ">Tools</h3>
-<p align="left ">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
+</td>
+<td valign="top" width="33%">
 
+🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,vim,md&theme=dark&perline=3"/>
 </p>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
