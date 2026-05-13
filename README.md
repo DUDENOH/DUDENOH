@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATED -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=210&section=header&text=DUDE%20AKNOH&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Engineer+•+Cybersecurity+Specialist&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=210&section=header&text=DUDE%20AKNOH&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Engineer+•+Cybersecurity&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <!-- STATS QUICK -->
