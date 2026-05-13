@@ -1,8 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ff0000&text=Dude%20%20%20%20%20%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20&descSize=18&descAlignY=55&textBg=false"/>
+<!-- HEADER ANIMATED -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=210&section=header&text=DUDE%20AKNOH&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Engineer+•+Cybersecurity+Specialist&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+</div>
+
+<!-- STATS QUICK -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DUDENOH&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/DUDENOH?label=FOLLOWERS&style=for-the-badge&color=8B0000&labelColor=000000"/>
+  <img src="https://img.shields.io/github/stars/DUDENOH?label=STARS&style=for-the-badge&color=8B0000&labelColor=000000"/>
+</p>
 
 
-###
+<!-- ABOUT SECTION -->
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"/> `whoami`
 
+```typescript
+const AKNOH = {
+  role: "Full Stack Engineer",
+  specialty: "Cybersecurity & Secure Architecture",
+  mindset: ["Offensive", "Defensive", "Pragmatic"],
+  currentFocus: "Building bulletproof systems",
+  philosophy: "Security is not a feature, it's the foundation",
+  coffee: Infinity
+};
+```
 <br clear="both">
 
 <p align="left"></p>
