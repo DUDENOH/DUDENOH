@@ -33,7 +33,10 @@ const AKNOH = {
 
 <p align="left"></p>
 
-<img src="https://i.pinimg.com/originals/b5/c7/9c/b5c79c5582a290eeefac1fc841a2192d.gif" width="50"/> About Me 
+<h1>
+  <img src="https://i.pinimg.com/originals/88/7a/f6/887af6ec26699944e06a0af8eca04a09.gif" width="40" style="vertical-align: middle;" />
+  About Me
+</h1>
 
 <br clear="both">
 
