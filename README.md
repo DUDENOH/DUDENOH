@@ -40,7 +40,7 @@ const AKNOH = {
 
 <br clear="both">
 
-<p align="left">My name is Dude, I am 19 years old and I am from Brazil. I have been programming for 4 years and have gained experience in various areas of technology, including development and cybersecurity. I am a curious person and passionate about constantly learning, always exploring new tools, frameworks, and methodologies to improve my skills and stay updated with industry trends. I seek challenges that allow me to apply my knowledge in a practical way and continue evolving as a technology professional.</p>
+<p align="left">My name is Dude, I am 18 years old and I am from Brazil. I have been programming for 4 years and have gained experience in various areas of technology, including development and cybersecurity. I am a curious person and passionate about constantly learning, always exploring new tools, frameworks, and methodologies to improve my skills and stay updated with industry trends. I seek challenges that allow me to apply my knowledge in a practical way and continue evolving as a technology professional.</p>
 
 
 <br clear="both">
@@ -127,18 +127,20 @@ const AKNOH = {
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DUDENOH&theme=monokai&radius=10" alt="DUDENOH's Activity Graph" />
 </p>
-<h4 align="left">Contributions</h4>
+<h1>
+  <img src="https://i.pinimg.com/originals/57/3b/2f/573b2f931546e122cfbef8a045975a74.gif" width="40" style="vertical-align: middle;" />
+  My Contributions
+</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<h4>
-  <img src="https://pin.it/6U8B4cKMz" width="40" style="vertical-align: middle;" />
-My Social Media
-</h4>
+<h3>
+  <img src="https://i.pinimg.com/originals/b5/c1/dc/b5c1dcfc4e84b9b6cbbeef9944b04c3c.gif" width="40" style="vertical-align: middle;" />
+  My Social Media
+</h3>
 
 <div align="left">
   <a href="https://discord.com/channels/@me](https://discordapp.com/users/987554088298373190" target="_blank">
@@ -147,7 +149,7 @@ My Social Media
   <a href="https://www.instagram.com/mf_dude_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="eversondude26@gmail.com" target="_blank">
+  <a href="maniacocomedordebundasgulosas@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank">
