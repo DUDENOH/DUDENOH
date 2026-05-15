@@ -111,8 +111,10 @@ const AKNOH = {
 ---
 
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FF0657&text=📊GitHub+Stats+/+Trophies%20%20%20%20%20&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35&"/>
+</p>
 
-📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/DUDENOH">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DUDENOH&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="DUDENOH's GitHub Stats" />
@@ -132,8 +134,11 @@ const AKNOH = {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<h4 align="left">My Social Networks</h4>
 
+<h4>
+  <img src="https://pin.it/6U8B4cKMz" width="40" style="vertical-align: middle;" />
+My Social Media
+</h4>
 
 <div align="left">
   <a href="https://discord.com/channels/@me](https://discordapp.com/users/987554088298373190" target="_blank">
